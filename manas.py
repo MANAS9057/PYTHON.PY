@@ -1,1 +1,1 @@
-print "manas"
+print ("manas gampot")
