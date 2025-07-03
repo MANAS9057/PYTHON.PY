@@ -5,3 +5,4 @@ git rm --cached manas.py
 git add manas.py 
 git commit -m "added testing files"
 git restore manas.py 
+git push origin main 
